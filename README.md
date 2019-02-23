@@ -57,4 +57,5 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
       sudo lsof -i :80 // Verificando serviços utilizando a porta :80
       sudo kill PID // Exemplo: nginx pid 950 // sudo kill 950
    ### Depois de efetuar esses procedimentos reinicie o apache e tente novamente.      
+      /etc/init.d/apache2 restart
 
