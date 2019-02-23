@@ -59,3 +59,12 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
    ### Depois de efetuar esses procedimentos reinicie o apache e tente novamente.      
       /etc/init.d/apache2 restart
 
+   # Vídeo explicativo sobre instalação do Fusion Inventory:
+      https://youtu.be/DB6cKgVVFCA
+
+
+
+## Referências: 
+    https://wiki.projetoroot.com.br/index.php?title=GLPI
+    https://glpi-project.org/pt-br/
+    http://fusioninventory.org/
