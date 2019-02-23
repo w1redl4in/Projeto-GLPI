@@ -68,3 +68,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
     https://wiki.projetoroot.com.br/index.php?title=GLPI
     https://glpi-project.org/pt-br/
     http://fusioninventory.org/
+
+
+# =)
+![](https://github.com/w1redl4in/.dotfiles/blob/master/Prints/2019-02-23--01:03:50:PM--1600900--scrot.png)
