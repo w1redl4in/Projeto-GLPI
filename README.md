@@ -6,7 +6,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
 
 
 # Dependências:
-    sudo apt-get install ca-certificates apache2 libapache2-mod-php7.0 php7.0-cli php7.0 php7.0-curl php7.0-apcu php7.0-gd php7.0-imap php7.0-ldap php7.0-mysql php-cas php7.0-soap php7.0-mbstring php7.0-xml php7.0-xmlrpc mariadb-server
+    sudo apt-get install ca-certificates apache2 libapache2-mod-php7.2 php7.2-cli php7.2 php7.2-curl php7.2-apcu php7.2-gd php7.2-imap php7.2-ldap php7.2-mysql php-cas php7.2-soap php7.2-mbstring php7.2-xml php7.2-xmlrpc mariadb-server
 ### (Caso você utilize Ubuntu Server ou derivados, dê um search no php para verificar em qual versão está. No momento 7.2)
   
  # Instalação do GLPI através do wget: 
