@@ -11,6 +11,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
     wget https://github.com/glpi-project/glpi/releases/download/9.3.1/glpi-9.3.1.tgz
   
  # Extraindo e movendo o GLPI para pasta WEBServer:
+ 
   ## Extração:
       tar -xf glpi-9.3.1.tgz
       
@@ -80,5 +81,5 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
     http://fusioninventory.org/
 
 
-#                                                            :D
+# :D
 ![](https://github.com/w1redl4in/.dotfiles/blob/master/Prints/2019-02-23--01:03:50:PM--1600900--scrot.png)
