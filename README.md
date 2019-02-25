@@ -19,6 +19,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
  
  # Setando permissões:
      chown www-data:www-data /var/www/html/glpi -Rf
+     
      chmod 775 /var/www/html/glpi -Rf
      
  # Criação do banco de dados:
@@ -46,6 +47,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
          </Directory>
         <Directory /var/www/html/glpi/files> Options -Indexes
         </Directory>
+        
    ## Salva e quita do nano:
       CTRL + O depois CTRL + X
       
@@ -61,6 +63,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
    ### exemplo: 192.168.2.123/glpi
    ### Caso dê algum erro, provavelmente outro serviço está utilizando a porta 80
       sudo lsof -i :80 // Verificando serviços utilizando a porta :80
+      
       sudo kill PID // Exemplo: nginx pid 950 // sudo kill 950
       
    ### Depois de efetuar esses procedimentos reinicie o apache e tente novamente.      
@@ -77,5 +80,5 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
     http://fusioninventory.org/
 
 
-# =)
+#                                                            :D
 ![](https://github.com/w1redl4in/.dotfiles/blob/master/Prints/2019-02-23--01:03:50:PM--1600900--scrot.png)
