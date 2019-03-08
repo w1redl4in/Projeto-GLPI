@@ -16,7 +16,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
       tar -xf glpi-9.3.1.tgz
       
   ## Movendo:
-      mv glpi-9.3.1.tgz /var/www/html/
+      mv glpi-9.3.1 /var/www/html/
  
  # Setando permissões:
      chown www-data:www-data /var/www/html/glpi -Rf
