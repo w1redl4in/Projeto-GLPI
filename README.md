@@ -74,7 +74,7 @@ Instalação do GLPI versão 9.3.1 e implementação do Fusion Inventory versão
       https://youtu.be/DB6cKgVVFCA
       
    # Fusion Inventory Releases para GLPI 3.2.1
-    https://github.com/fusioninventory/fusioninventory-for-glpi/releases/tag/glpi9.3%2B1.2
+    https://github.com/fusioninventory/fusioninventory-for-glpi/releases/download/glpi9.3%2B1.2/fusioninventory-9.3+1.2.tar.gz
 
 
 
